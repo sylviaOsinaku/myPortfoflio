@@ -1,0 +1,26 @@
+[
+  {
+    "image": "./assets/cooperate-business.png",
+    "title": "Cooperate business Landing Page",
+    "description": "A landing page of a cooperate business with price tags",
+    "live_link": "https://cooperate-business.netlify.app/",
+    "github_link": "https://github.com/sylviaOsinaku/cooperate-business",
+    "stacks_used": ["Html", "Css", "Javascript", "Bootstrap"]
+  },
+  {
+    "image": "./assets/e-commerce.jpg",
+    "title": "e Commerce page",
+    "description": "A user is able to add to cart, display slider, click on thumbnail to navigate to other products in the cart",
+    "live_link": "https://sylvia-e-commerce.netlify.app/",
+    "github_link": "https://sylviaosinaku.github.io/commerce/products",
+    "stacks_used": ["Html", "Css", "Javascript"]
+  },
+  {
+    "image": "./assets/guessing-game.png",
+    "title": "Number Guess Game",
+    "description": "A Javascript guessing game,A user gets five chances to guess the right number, the user gets feedback on every guess. ",
+    "live_link": "https://sylvia-guess-game.netlify.app/",
+    "github_link": "https://github.com/sylviaOsinaku/guess-game",
+    "stacks_used": ["Javascript", "Html", "Css"]
+  }
+]

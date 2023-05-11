@@ -1,0 +1,51 @@
+.project-container {
+  padding: 6em 0em;
+}
+
+.project-container h2 {
+  text-align: center;
+  color: rgb(243, 236, 247);
+  font-size: 2.2rem;
+  margin-bottom: 1em;
+}
+
+.project-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+}
+
+.project-wrapper>div {
+  background: linear-gradient(180deg, rgba(75, 0, 130, .4) 0%, rgba(205, 92, 92, .4) 100%);
+  padding: 1em;
+  border-radius: 5px;
+}
+
+.icon-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1em;
+}
+
+.project-wrapper>div h3 {
+  margin: 1em 0em;
+}
+
+.project-wrapper p {
+  margin: 1em 0em;
+}
+
+.project-wrapper span {
+  margin-right: .5em;
+  color: rgb(243, 236, 247);
+}
+
+.stacks-wrapper span {
+  font-family: monospace;
+}
+
+@media(max-width:560px) {
+  .project-wrapper {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "image": "./assets/rest-country.jpg",
+    "title": "Rest Country Api",
+    "description": "Integrating with the REST Countries API to pull country data and display it. Filtering country based on user input, using react router to get more details of a specific country from the Api.",
+    "live_link": "https://rest-country-api-project.netlify.app/",
+    "github_link": "https://github.com/sylviaOsinaku/rest-country-api",
+    "stacks_used": ["React", "Javascript", "Html", "Css", "Api", "react-router"]
+  },
+  {
+    "image": "./assets/daz-cravings.png",
+    "title": "DazCravings",
+    "description": "A cake E-commerce site, user can add to cart, remove from cart, get more details about a cake item, view all products available and have a seamless user experience",
+    "live_link": "https://dazcravings.netlify.app/",
+    "github_link": "https://github.com/sylviaOsinaku/dazcravings",
+    "stacks_used": [
+      "Html",
+      "Css",
+      "Javascript",
+      "React",
+      "Bootstrap",
+      "react-router"
+    ]
+  },
+  {
+    "image": "./assets/Dictionary-Api.png",
+    "title": "Dictionary web app",
+    "description": "A Dictionary web application, user can search for a word, listen to the pronunciation of that word and change font",
+    "live_link": "https://sylviadictionary.netlify.app",
+    "github_link": "https://github.com/sylviaOsinaku/dictionary-api",
+    "stacks_used": ["Html", "Css", "Javascript", "React"]
+  },
+  {
+    "image": "./assets/url-shortner.jpg",
+    "title": "url link shortener",
+    "description": "Integrating with  shortcode URL shortening API , user is able to paste in a link and get it shortened, even when the user leaves the browser the previous links are retained, user is also able to copy link to clipboard.",
+    "live_link": "https://my-url-link-shortener.netlify.app/",
+    "github_link": "https://github.com/sylviaOsinaku/url-shortener",
+    "stacks_used": ["React", "Html", "Css", "Javascript", "Api"]
+  },
+  {
+    "image": "./assets/static-job.jpg",
+    "title": "Static Job Listings",
+    "description": "user is able to filter out jobs based on selected categories.",
+    "live_link": "https://my-static-job-listings.netlify.app/",
+    "github_link": "https://github.com/sylviaOsinaku/static-job-listings-react",
+    "stacks_used": ["React", "Html", "Css", "Javascript"]
+  }
+]
